@@ -1,2 +1,2 @@
-Esses Projeto está associado a JUCERN-RN
+Esses Projeto está associado a 
 Atualmente contam com Códigos de Formulários de cadastramentos 
